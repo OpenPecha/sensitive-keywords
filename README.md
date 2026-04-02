@@ -1,66 +1,90 @@
-# sensitive-keywords
-Partial list of sensitive keywords in China
+<h1 align="center">
+  <br>
+  <a href="https://buddhistai.tools/"><img src="https://raw.githubusercontent.com/WeBuddhist/visual-assets/refs/heads/main/logo/WB-logo-purple.png" alt="OpenPecha" width="150"></a>
+  <br>
+</h1>
 
-- ༧རྒྱལ་བ་༧བསྟན་འཛིན་རྒྱ་མཚོ
-- རང་བཙན་
-- པོད ༣་གོང་ས་སྐྱབས་མགོན་ཆེན་པོ་མཆོག་ནས་སྩལ་བའི་བཀའ་སློབ་ཕྱོགས་བསྡེབས
-- དབུ་མའི་ལམ་གྱི་སྲིད་བྱུས
-- (བོད་ / བོད་རྒྱལ་ཡོངས་) རང་བཙན (་གྱི་བསྒྲགས་གཏམ / ་བསྒྲགས་གཏམ / ་ལྷན་ཚོགས / ་སློབ་ཕྲུག་ཚོགས་པ / ་སླར་གསོ)
-- བོད་ཀྱི་གཞོན་ནུ་ལྷན་ཚོགས
-- གཞོན་ནུ་ལྷན་ཚོགས
-- བོད་ཀྱི་གཞོན་ནུ་ཚོགས་པ
-- གཞོན་ནུ་ཚོགས་པ
-- བོད་ཀྱི་བུད་མེད་ལྷན་ཚོགས
-- བོད་ཀྱི་བུད་མེད་ཚོགས་པ
-- བོད་ཀྱི་དགུ་བཅུ་གསུམ་ཚོགས་པ
-- བོད་ཀྱི་དགུ་བཅུ་གསུམ
-- དགུ་བཅུ་གསུམ (་ཚོགས་པ / ་ལས་འགུལ་ཚོགས་པ)
-- བོད་རྒྱལ་ཡོངས་རང་དབང་སློབ་ཕྲུག་ཚོགས་པ
-- རང་དབང་སློབ་ཕྲུག་ཚོགས་པ
-- ཟམ་གདོང་རིན་པོ་ཆེ
-- བོད་རྒྱལ་ཡོངས་མང་གཙོ་ཚོགས་པ
-- མང་གཙོ
-- སྲིད་སྐྱོང་ (་བློ་བཟང་སེང་གེ / སྤེན་པ་ཚེ་རིང་)
-- བློ་བཟང་སེང་གེ
-- བོད་ཀྱི་སྲིད་དོན(་རྒྱལ་རབས?)
-- བོད་ཀྱི་ཆབ་སྲིད་ལམ་སྟོན
-- བཙན་བྱོལ་བོད(་གཞུང་? / གཞུང་གི་བཅའ་ཁྲིམས? / མིའི་བཅའ་ཁྲིམས?)
-- དབུས་བོད་མིའི་སྒྲིག་འཛུགས
-- བོད་ཀྱི་ཕྱི་དྲིལ་ལྷན་ཁང་
-- བོད་མིའི་རང་དབང་
-- རང་ལུས་མེ་བསྲེགས
-- རང་ལུས་མེར་བསྲེགས
-- དབུས་འོས་བསྡུ་ལས་ཁང་
-- གསུམ་བཅུའི་དུས་དྲན
-- མི་མང་ལང་གླུ
-- མི་མང་ལས་འགུལ་ཁང་
-- ངོས་ཀྱི་ཡུལ་དང་ངོས་ཀྱི་མི་མང་
-- བོད་མི་མང་སྤྱི་མཐུས་ལྷན་ཚོགས
-- མི་མང་སྒེར་ལངས
-- (བོད་ཀྱི་)རྒྱལ་གླུ
-- ཕྱི་ཡུལ་གྱི་རང་དབང་
-- རྡ་རམ་ས་ལ / དྷ་རམ་ས་ལ / རྡར་ས / རྡ་རམ་ཤ་ལ
-- བཙན་རྒོལ་རྒྱལ་སྐྱོབས
-- རྒྱ་དམར་བོད་ནས་ཁ་བྲལ
-- རང་དབང་སྒེར་ལངས
-- བོད་མིའི་རང་དབང་སྒེར་ལངས
-- རྒྱ་དམར་བཙན་འཛུལ
-- སྤྱི་མཐུས་ལྷན་ཚོགས
-- བོད་མིའི་སྒྲིག་འཛུགས་ཀྱི་བཀའ་ཤག
-- བཙན་བྱོལ་སྒྲིག་འཛུགས་ཀྱི་ཆེས་མཐོའི་ཁྲིམས་ཞིབ་ཁང་
-- ཆེས་མཐོའི་ཁྲིམས་ཞིབ་ཁང་
-- (བོད་ཀྱི་)རྒྱལ་དར
-- བོད་མིའི་རང་དབང་
-- བཙན་བྱོལ (་བ / ་གཞུང་ / ་སྒྲིག་འཛུགས)
-- ཆབ་སྲིད་བཙོན (་མ / ་པ / ་པའི་ལོ་རྒྱུས)
-- ཆབ་སྲིད་སྐྱབས་བཅོལ་བ
-- རང་དབང་འཐབ་རྩོད
-- རང་ལུས་མེར་བསྲེགས
-- ཕུང་པོ་མེ་མཆོད
-- སྐུ་ཕྲེང་བཅུ་བཞི་པ
-- གོང་ས་མཆོག
-- འཚེ་མེད་ཞི་བ
-- མིའི་ཐོབ་ཐང
-- དོལ་རྒྱལ
-- ཡང་སྲིད་ངོས་འཛིན
-- བཀའ་བློན
+<h1 align="center">sensitive-keywords</h1>
+
+<p align="center">
+  |MIT| |None| |NLP|
+</p>
+
+list of sensitive keywords in China
+
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Development](#development)
+- [Testing](#testing)
+- [Contributing](#contributing)
+- [How to get help](#how-to-get-help)
+- [Terms of use](#terms-of-use)
+
+## Features
+
+- NLP tooling for Tibetan/Indic text processing
+
+## Prerequisites
+
+- Python 3.8+
+- pip
+
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/OpenPecha/sensitive-keywords.git
+cd sensitive-keywords
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Install the package
+pip install -e .
+```
+
+## Usage
+
+```python
+# Add usage example here
+```
+
+## Development
+
+```bash
+# Install dev dependencies
+pip install -e .[dev]
+
+# Run tests
+pytest
+
+# Lint
+flake8
+```
+
+## Testing
+
+```bash
+pytest tests/
+```
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
+
+Please read [CONTRIBUTING.md](https://github.com/OpenPecha/.github/blob/main/CONTRIBUTING.md) for details.
+
+## How to get help
+* File an issue.
+* Join our [discord](https://discord.com/invite/7GFpPFSTeA).
+
+## Terms of use
+MIT is licensed under the [MIT License](/LICENSE).
